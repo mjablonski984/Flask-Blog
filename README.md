@@ -21,3 +21,4 @@ pipenv install
 # Serve on localhost:5000
 python app.py
 ```
+You can try this app [here](https://flaskblogmj.herokuapp.com/)
